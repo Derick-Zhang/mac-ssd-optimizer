@@ -1,7 +1,7 @@
 all: TRIM SMS noatime reboot 
 
 checkroot:
-  @echo -n checking privilege...
+	@echo -n checking privilege...
 	@touch / &>/dev/null || ( echo error!;exit 1; )
 	@echo ok!
 
