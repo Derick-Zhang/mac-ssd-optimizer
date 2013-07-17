@@ -49,5 +49,5 @@ Macbook装完SSD后，需要进一步优化，以充分释放性能并提高寿�
 -	禁用磁盘保护，这个对SSD没有意义，白费电。
 
 注意：
-1、	打开TRIM时，会误报segment fault，忽略即可
+1、	打开TRIM时，会误报segment fault，忽略即可。
 2、	由于系统版本原因，TRIM可能打开失败，如何检测成功与否，以及失败了怎么办，请参见：http://www.cnbeta.com/articles/219752.htm
