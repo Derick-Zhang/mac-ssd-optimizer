@@ -34,7 +34,7 @@ After the SSD and OSX being installed, follow the steps below:
 Caution:
 
  - This tool will report "segment fault", but it's OK, just ignore.
- - (*)TRIM-tuning sometimes does not work, you should check it as this article say: http://www.cnbeta.com/articles/219752.htm (chinese)
+ - (*)TRIM-tuning sometimes does not work, you should check it as what this article says: http://www.cnbeta.com/articles/219752.htm (chinese)
 
 
 [简体中文]
